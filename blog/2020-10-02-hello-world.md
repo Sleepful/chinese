@@ -3,7 +3,7 @@ slug: hello-world
 title: Hello
 author: Jose Vargas
 author_title: Dude on the internet
-author_url: https://github.com/sleepuful
+author_url: https://github.com/sleepful
 author_image_url: https://avatars3.githubusercontent.com/u/7144046?s=400&u=ed17e4b855020500dfb2b7a30fae954f8fd2927a&v=4
 tags: [language website]
 ---
